@@ -2,6 +2,20 @@ MIT License
 
 Copyright (c) 2024 Hasan Haj Hasan
 
+The MIT License is popular among open source licenses for several reasons:
+
+Permissive: The MIT License is very permissive. It allows users to do almost anything they want with the code, including using it for commercial purposes, without requiring them to open-source their own code.
+
+Simple and Clear: The MIT License is short and easy to understand. It doesn't have complex legal language, making it accessible to developers and organizations.
+
+Widely Accepted: The MIT License is widely used and accepted in the open-source community. This can make it easier for others to use and contribute to your project.
+
+No Liability: The MIT License includes a disclaimer of liability, which can protect the project maintainer from being held liable for any damages caused by the software.
+
+Compatibility: The MIT License is compatible with many other licenses, making it easier to combine code from different projects.
+
+Overall, the MIT License is a good choice for many open-source projects due to its simplicity, permissiveness, and wide acceptance in the community.
+
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
